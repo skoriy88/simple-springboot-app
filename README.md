@@ -2,7 +2,7 @@
 Simplest Spring Boot Hello World Example 
 
 
-# Steps
+# Steps 
 
 > git clone https://github.com/goxr3plus/Simplest-Spring-Boot-Hello-World.git
 
