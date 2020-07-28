@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Hello 1 DevOps World!!!"; //"application/json" mean this is a text not a redirect
+		return "Hello DevOps World!!!"; //"application/json" mean this is a text not a redirect
 	}
 }
