@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Hello JFrog World!*)"; //"application/json" mean this is a text not a redirect
+		return "Hello JFrog World!+"; //"application/json" mean this is a text not a redirect
 	}
 }
