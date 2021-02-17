@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Hello JFrog World full-1!)"; //"application/json" mean this is a text not a redirect
+		return "Hello JFrog Pipelines World automated deploy on commit."; //"application/json" mean this is a text not a redirect
 	}
 }
